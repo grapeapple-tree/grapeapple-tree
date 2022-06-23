@@ -1,6 +1,5 @@
 旧アカウントです
-新アカウント↓
-@GrapeApple0
+新アカウント→@GrapeApple0
 
 <!---
 grapeapple-tree/grapeapple-tree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
